@@ -1,0 +1,5 @@
+/* Estilos de la app del comercio */
+body { background: #f4f6f9; }
+.card { border-radius: .5rem; }
+#btn-permiso { white-space: nowrap; }
+.pedido-entregado { opacity: .75; }
